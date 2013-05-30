@@ -36,7 +36,7 @@ public class mypage extends HttpServlet {
 	                "<HTML>\n" +
 	                "<HEAD><TITLE>Hello WWW</TITLE></HEAD>\n" +
 	                "<BODY>\n" +
-	                "<H1>Hello My Friend</H1>\n" +
+	                "<H1>Hello My Friend 2</H1>\n" +
 	                "</BODY></HTML>");
 	}
 
