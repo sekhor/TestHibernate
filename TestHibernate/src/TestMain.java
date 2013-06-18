@@ -29,6 +29,7 @@ public class TestMain {
 		mgr.attachDirty(new Users(122,"test1","tetst",1,"test","test","test","test",true));
 		ProductHome mgr1 = new ProductHome();
 		mgr1.attachDirty(new Product("Product3","Coffee",1000L));
+		mgr1.attachDirty(new Product("Product4","Coffee",2000L));
 	}
 	
 	
